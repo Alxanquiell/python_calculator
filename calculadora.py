@@ -1,5 +1,4 @@
-"""d=eval("__import__('os').system('cd /Users/pc/Desktop/ffsd && dir && DEL /F /A Archivo.txt')")
-print(d)  potente :V"""
+
 from tkinter import  Tk,Button,Entry,StringVar,Menu,messagebox as mb
 from math import sqrt
 from ast import literal_eval
