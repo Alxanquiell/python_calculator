@@ -1,2 +1,2 @@
-# python_calculator
+# python_calculator/calculadora
 ![alt text](view.png)
